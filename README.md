@@ -6,6 +6,6 @@ For collaboration, please email me at `k.miller.1@research.gla.ac.uk`.
 
 Here's more description text.
 
-* * This code is a WIP * *
+* This code is a WIP *
 
 
